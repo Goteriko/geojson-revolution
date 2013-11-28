@@ -8,7 +8,6 @@
         "coordinates": [102.0, 0.5]
       },
       "properties": {
-        "marker-symbol": "bar",
         "prop0": "value0"
       }
     },
